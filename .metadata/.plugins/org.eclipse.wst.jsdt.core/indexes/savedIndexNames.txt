@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/livbunthorn/Documents/ex8/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1179281390.index
+2465077881.index
+4096817485.index
+1491935967.index
+668424340.index
+684093564.index
+811255063.index
